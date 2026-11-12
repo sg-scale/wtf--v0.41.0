@@ -29,8 +29,7 @@ require (
 	github.com/godbus/dbus v4.1.0+incompatible // indirect
 	github.com/google/go-github/v32 v32.1.0
 	github.com/gophercloud/gophercloud v0.5.0 // indirect
-	github.com/hekmon/cunits v2.0.1+incompatible // indirect
-	github.com/hekmon/transmissionrpc v0.0.0-20190525133028-1d589625bacd
+	github.com/hekmon/transmissionrpc v1.1.0
 	github.com/jedib0t/go-pretty/v6 v6.1.0
 	github.com/jessevdk/go-flags v1.4.0
 	github.com/lib/pq v1.2.0 // indirect
@@ -111,6 +110,7 @@ require (
 	github.com/hashicorp/go-cleanhttp v0.5.1 // indirect
 	github.com/hashicorp/go-retryablehttp v0.6.4 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
+	github.com/hekmon/cunits/v2 v2.0.2 // indirect
 	github.com/huandu/xstrings v1.2.0 // indirect
 	github.com/imdario/mergo v0.3.9 // indirect
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
