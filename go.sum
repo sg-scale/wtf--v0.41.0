@@ -104,8 +104,8 @@ github.com/bgentry/speakeasy v0.1.0/go.mod h1:+zsyZBPWlz7T6j88CTgSN5bM796AkVf0kB
 github.com/blang/semver v3.5.1+incompatible h1:cQNTCjp13qL8KC3Nbxr/y2Bqb63oX6wdnnjpJbkM4JQ=
 github.com/blang/semver v3.5.1+incompatible/go.mod h1:kRBLl5iJ+tD4TcOOxsy/0fnwebNt5EWlYSAyrTnjyyk=
 github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869/go.mod h1:Ekp36dRnpXw/yCqJaO+ZrUyxD+3VXMFFr56k5XYrpB4=
-github.com/briandowns/openweathermap v0.0.0-20180804155945-5f41b7c9d92d h1:28xWzPQ9bdGxKAAwQpZipZZ9Xz8kQcgMPF9cZnvMeuI=
-github.com/briandowns/openweathermap v0.0.0-20180804155945-5f41b7c9d92d/go.mod h1:8g1Bgq9PbPpXIA3sdlWmWf2JpiWGJee/O4Q+ddYO6+k=
+github.com/briandowns/openweathermap v0.21.1 h1:TPbuixuF+aGJP1mpgTNny6eUkdbvj7gqODGXkwhss48=
+github.com/briandowns/openweathermap v0.21.1/go.mod h1:0GLnknqicWxXnGi1IqoOaZIw+kIe5hkt+YM5WY3j8+0=
 github.com/buger/goterm v0.0.0-20170918171949-d443b9114f9c/go.mod h1:u9UyCz2eTrSGy6fbupqJ54eY5c4IC8gREQ1053dK12U=
 github.com/cenkalti/backoff v2.2.1+incompatible h1:tNowT99t7UNflLxfYYSlKYsBpXdEet03Pg2g16Swow4=
 github.com/cenkalti/backoff v2.2.1+incompatible/go.mod h1:90ReRw6GdpyfrHakVjL/QHaoyV4aDUVVkXQJJJ3NXXM=
