@@ -348,6 +348,8 @@ github.com/inconshreveable/go-update v0.0.0-20160112193335-8152e7eb6ccf/go.mod h
 github.com/inconshreveable/mousetrap v1.0.0 h1:Z8tu5sraLXCXIcARxBp/8cbvlwVa7Z1NHg9XEKhtSvM=
 github.com/inconshreveable/mousetrap v1.0.0/go.mod h1:PxqpIevigyE2G7u3NXJIT2ANytuPF1OarO4DADm73n8=
 github.com/itsjamie/gin-cors v0.0.0-20160420130702-97b4a9da7933/go.mod h1:AYdLvrSBFloDBNt7Y8xkQ6gmhCODGl8CPikjyIOnNzA=
+github.com/jarcoal/httpmock v1.2.0 h1:gSvTxxFR/MEMfsGrvRbdfpRUMBStovlSRLw0Ep1bwwc=
+github.com/jarcoal/httpmock v1.2.0/go.mod h1:oCoTsnAz4+UoOUIf5lJOWV2QQIW5UoeUI6aM2YnWAZk=
 github.com/jcmturner/gofork v1.0.0/go.mod h1:MK8+TM0La+2rjBD4jE12Kj1pCCxK7d2LK/UM3ncEo0o=
 github.com/jedib0t/go-pretty/v6 v6.1.0 h1:NVS2PT3ZvzMb47DzS50cmsK6xkf8SSyLfroSSIG20JI=
 github.com/jedib0t/go-pretty/v6 v6.1.0/go.mod h1:+nE9fyyHGil+PuISTCrp7avEdo6bqoMwqZnuiK2r2a0=
@@ -420,6 +422,7 @@ github.com/mattn/go-sqlite3 v1.9.0/go.mod h1:FPy6KqzDD04eiIsT53CuJW3U88zkxoIYsOq
 github.com/mattn/go-zglob v0.0.1/go.mod h1:9fxibJccNxU2cnpIKLRRFA7zX7qhkJIQWBb449FYHOo=
 github.com/matttproud/golang_protobuf_extensions v1.0.1 h1:4hp9jkHxhMHkqkrB3Ix0jegS5sx/RkqARlsWZ6pIwiU=
 github.com/matttproud/golang_protobuf_extensions v1.0.1/go.mod h1:D8He9yQNgCq6Z5Ld7szi9bcBfOoFv/3dc6xSMkL2PC0=
+github.com/maxatome/go-testdeep v1.11.0/go.mod h1:011SgQ6efzZYAen6fDn4BqQ+lUR72ysdyKe7Dyogw70=
 github.com/mcuadros/go-defaults v0.0.0-20161116231230-e1c978be3307/go.mod h1:vl9cJiNIIHISQeboDhZBUCiCOa3GkeioLe3Y95NXF6Y=
 github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b h1:j7+1HpAFS1zy5+Q4qx1fWh90gTKwiN4QCGoY9TWyyO4=
 github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b/go.mod h1:01TrycV0kFyexm33Z7vhZRXopbI8J3TDReVlkTgMUxE=
@@ -632,8 +635,8 @@ github.com/vmware/govmomi v0.0.0-20170817040329-d7e841db6909/go.mod h1:URlwyTFZX
 github.com/whilp/git-urls v0.0.0-20160530060445-31bac0d230fa/go.mod h1:2rx5KE5FLD0HRfkkpyn8JwbVLBdhgeiOb2D2D9LLKM4=
 github.com/wtfutil/spotigopher v0.0.0-20191127141047-7d8168fe103a h1:2eyMT9EpTPS4PiVfvXvqA8PKB5FoSl6gGjgb3CQ0cug=
 github.com/wtfutil/spotigopher v0.0.0-20191127141047-7d8168fe103a/go.mod h1:AlO4kKlF1zyOHTq2pBzxEERdBDStJev0VZNukFEqz/E=
-github.com/wtfutil/todoist v0.0.2-0.20191216004217-0ec29ceda61a h1:nD8ALd4TSo+zPHK5MqQWFj01G8fMMHFfC3rWvoq/9JA=
-github.com/wtfutil/todoist v0.0.2-0.20191216004217-0ec29ceda61a/go.mod h1:YuuGLJSsTK6DGBD5Zaf3J8LSMfpEC2WtzYPey3XVOdI=
+github.com/wtfutil/todoist v0.5.0 h1:sqn/kXCz3cNsoivfPvb3Ww3QvvHskYAOh1wSpaodPU0=
+github.com/wtfutil/todoist v0.5.0/go.mod h1:bWQGh9tPjlHVD7ooTyNVFuNRngl64FepP9wYpF5ObBM=
 github.com/xanzy/go-gitlab v0.15.0/go.mod h1:8zdQa/ri1dfn8eS3Ir1SyfvOKlw7WBJ8DVThkpGiXrs=
 github.com/xanzy/go-gitlab v0.39.0 h1:7aiZ03fJfCdqoHFhsZq/SoVYp2lR91hfYWmiXLOU5Qo=
 github.com/xanzy/go-gitlab v0.39.0/go.mod h1:sPLojNBn68fMUWSxIJtdVVIP8uSBYqesTfDUseX11Ug=
@@ -980,8 +983,6 @@ gopkg.in/inf.v0 v0.9.1 h1:73M5CoZyi3ZLMOyDlQh031Cx6N9NDJ2Vvfl76EDAgDc=
 gopkg.in/inf.v0 v0.9.1/go.mod h1:cWUDdTG/fYaXco+Dcufb5Vnc6Gp2YChqWtbxRZE0mXw=
 gopkg.in/ini.v1 v1.51.0 h1:AQvPpx3LzTDM0AjnIRlVFwFFGC+npRopjZxLJj6gdno=
 gopkg.in/ini.v1 v1.51.0/go.mod h1:pNLf8WUiyNEtQjuu5G5vTm06TEv9tsIgeAvK8hOrP4k=
-gopkg.in/jarcoal/httpmock.v1 v1.0.0-20181110093347-3be5f16b70eb h1:ggw12VRqlkVtHkyK+zh3QP+V6PIGAuKQG/u0Mnkn6TQ=
-gopkg.in/jarcoal/httpmock.v1 v1.0.0-20181110093347-3be5f16b70eb/go.mod h1:d3R+NllX3X5e0zlG1Rful3uLvsGC/Q3OHut5464DEQw=
 gopkg.in/jcmturner/aescts.v1 v1.0.1/go.mod h1:nsR8qBOg+OucoIW+WMhB3GspUQXq9XorLnQb9XtvcOo=
 gopkg.in/jcmturner/dnsutils.v1 v1.0.1/go.mod h1:m3v+5svpVOhtFAP/wSz+yzh4Mc0Fg7eRhxkJMWSIz9Q=
 gopkg.in/jcmturner/goidentity.v3 v3.0.0/go.mod h1:oG2kH0IvSYNIu80dVAyu/yoefjq1mNfM5bm88whjWx4=
