@@ -59,7 +59,7 @@ require (
 	github.com/ssor/bom v0.0.0-20170718123548-6386211fdfcf // indirect
 	github.com/stretchr/testify v1.6.1
 	github.com/wtfutil/spotigopher v0.0.0-20191127141047-7d8168fe103a
-	github.com/wtfutil/todoist v0.0.2-0.20191216004217-0ec29ceda61a
+	github.com/wtfutil/todoist v0.5.0
 	github.com/xanzy/go-gitlab v0.39.0
 	github.com/zmb3/spotify v0.0.0-20191010212056-e12fb981aacb
 	github.com/zorkian/go-datadog-api v2.30.0+incompatible
@@ -68,7 +68,6 @@ require (
 	golang.org/x/sys v0.0.0-20210909193231-528a39cd75f3 // indirect
 	golang.org/x/text v0.3.4
 	google.golang.org/api v0.33.0
-	gopkg.in/jarcoal/httpmock.v1 v1.0.0-20181110093347-3be5f16b70eb // indirect
 	gopkg.in/yaml.v2 v2.3.0
 	gotest.tools v2.2.0+incompatible
 	jaytaylor.com/html2text v0.0.0-20200412013138-3577fbdbcff7
