@@ -12,7 +12,7 @@ require (
 	github.com/VictorAvelar/devto-api-go v1.0.0
 	github.com/adlio/trello v1.8.0
 	github.com/alecthomas/chroma v0.8.1
-	github.com/andygrunwald/go-gerrit v0.0.0-20190825170856-5959a9bf9ff8
+	github.com/andygrunwald/go-gerrit v1.2.0
 	github.com/briandowns/openweathermap v0.0.0-20180804155945-5f41b7c9d92d
 	github.com/cenkalti/backoff v2.2.1+incompatible // indirect
 	github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e
@@ -100,8 +100,8 @@ require (
 	github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e // indirect
 	github.com/golang/protobuf v1.4.2 // indirect
 	github.com/google/btree v1.0.0 // indirect
-	github.com/google/go-cmp v0.5.2 // indirect
-	github.com/google/go-querystring v1.0.0 // indirect
+	github.com/google/go-cmp v0.6.0 // indirect
+	github.com/google/go-querystring v1.2.0 // indirect
 	github.com/google/gofuzz v1.0.0 // indirect
 	github.com/google/uuid v1.1.1 // indirect
 	github.com/googleapis/gax-go/v2 v2.0.5 // indirect
